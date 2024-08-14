@@ -60,18 +60,6 @@ Academic-Industrial-associations                   Root directory
 
   - The paper is being sorted out and will be announced later.
 
-## Quick Start
-
-- <b>Semantic similarity</b>
-    - <code>python 
-    - <code>python 
-
-- <b>Knowledge structure analysis</b>
-  - <code>..
-  - 
-- <b>Reference analysis</b>
-    - <code>.
-
 
 ## Dependency packages
 System environment is set up according to the following configuration:
