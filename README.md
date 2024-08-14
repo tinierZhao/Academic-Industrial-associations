@@ -37,11 +37,11 @@ This study analyzes the proximity between industry and academia since the 21st c
 <pre>
 Academic-Industrial-associations                   Root directory
 ├─ subgraph analysis
-│    ├─ analysis最大连通子图变化.ipynb
-│    └─ 不同类型网络连边的特点.ipynb
+│    ├─ subgraph_changes.ipynb
+│    └─ network_construction.ipynb
 ├─ Reference analysis
 │    ├─ describe.ipynb
-│    └─ 参考文献_pyalex.ipynb
+│    └─ reference_openAlex.ipynb
 ├─ data
 ├─ picture
 │    ├─ academic_sim_industry.png
@@ -51,9 +51,10 @@ Academic-Industrial-associations                   Root directory
 │    └─ subgraph_analysis.png
 ├─ semantic similarity
 │    ├─ data
-│    └─ 语义相似度.ipynb
+│    └─ similarity_visualization.ipynb
 └─ README.md
 </pre>
+
 
 
 ## Dataset Discription
@@ -62,15 +63,8 @@ Academic-Industrial-associations                   Root directory
 
 ## Quick Start
 
-- <b>Semantic similarity</b>
-    - <code>python 
-    - <code>python 
-
-- <b>Knowledge structure analysis</b>
-  - <code>..
-  - 
-- <b>Reference analysis</b>
-    - <code>.
+- 
+    
 
 
 ## Dependency packages
