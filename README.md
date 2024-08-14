@@ -61,11 +61,14 @@ Academic-Industrial-associations                   Root directory
 
   - The paper is being sorted out and will be announced later.
 
+<<<<<<< HEAD
 ## Quick Start
 
 - 
     
 
+=======
+>>>>>>> b8548e30954e348c7cc86e8275d5fb86d537ae06
 
 ## Dependency packages
 System environment is set up according to the following configuration:
