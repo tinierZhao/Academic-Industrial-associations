@@ -15,20 +15,20 @@ This study analyzes the proximity between industry and academia since the 21st c
     - Since 2018, the similarity shown in the heat map has increased sharply, and the similarity interval has gradually narrowed, indicating the rapid development of new technologies. Even data taken two years apart can have significant differences in similarity, once again emphasizing **the new energy and innovation that is being injected into the NLP field with the introduction of pre-trained models.**
 
     <div align="center">
-    <img src="./picture/entity_similarity.png" width=80% height=80%/>
+    <img src="./image/entity_similarity.png" width=80% height=80%/>
     </div>
     <div align="center"><b>Figure 1. Entity similarity heat map</b></div>
 
 - We plotted Figure 2 to compare the similarities of the three situations: current year, two year ahead and two year lag, in order to better capture the changes in similarity between the two, better understand the fluctuation trend in the degree of similarity, and judge the two Whether there is a certain lag in the research.
 
     <div align="center">
-    <img src="./picture/academic_sim_industry.png" width=80% height=80%/>
+    <img src="./image/academic_sim_industry.png" width=80% height=80%/>
     </div>
     <div align="center"><b>Figure 2. Nearest neighbor industrial paper similarity searched from academia</b></div>
 
    - We consider entities mentioned in each paper to be related and construct an entity co-occurrence network. These entities are all normalized entities that appear in five or more papers. Then we went through different publishing institutions, namely industrial and academic institutions, and constructed annual industrial and academic sub-networks for them, as shown in Figure 3.
 <div align="center">
-<img src="./picture/subgraph_analysis.png" width=80% height=80%/>
+<img src="./image/subgraph_analysis.png" width=80% height=80%/>
 </div>
 <div align="center"><b>Figure 3. Maximum connected subgraph and missing conditions under different mechanisms</b></div>
 
@@ -65,7 +65,7 @@ Academic-Industrial-associations                   Root directory
 ## Quick Start
 
 - 
-    
+  
 
 =======
 >>>>>>> b8548e30954e348c7cc86e8275d5fb86d537ae06
