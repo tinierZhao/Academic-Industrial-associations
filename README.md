@@ -1,4 +1,4 @@
-# Convergence or Divergence? Is the Knowledge Focused by Industry and Academia Consistent in the Field of NLP?
+# Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective
 ## Overview
 
 **Dataset and source code for paper "Convergence or Divergence? Is the Knowledge Focused by Industry and Academia Consistent in the Field of NLP".**
