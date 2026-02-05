@@ -1,7 +1,7 @@
 # Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective
 ## Overview
 
-**Dataset and source code for paper "Convergence or Divergence? Is the Knowledge Focused by Industry and Academia Consistent in the Field of NLP".**
+**Dataset and source code for paper "Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective".**
 
 This study analyzes the proximity between industry and academia since the 21st century from multiple perspectives. Our work includes the followig aspects:
   - We use the annotated data set to fine-tune NER model and select the best model for subsequent entity recognition. The proximity between academia and industry is measured through the entity composition bag of words vector.
