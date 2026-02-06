@@ -85,4 +85,4 @@ System environment is set up according to the following configuration:
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
     
-> 
+>Hongye Zhao, Yi Zhao, Chengzhi Zhang\*. Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective. ***Technological Forecasting & Social Change***. 2026 (in press)   [[doi]](https://doi.org/10.1016/j.techfore.2026.124598)   [[arXiv]](http://arxiv.org/abs/2602.05211)   [[Dataset & Source Code]](https://github.com/tinierZhao/Academic-Industrial-associations)
